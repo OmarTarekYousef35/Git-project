@@ -11,6 +11,18 @@ return a-b:
 }
 
 
+double mul (double a , double b){
+
+return a*b:
+}
+
+double dic (double a , double b){
+
+b != 0 ? a/b : 0;
+
+}
+
+
 int void(main){
 
 int a=5;
